@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RegistrationAndLogin",
+    "\\RegistrationAndLogin\\Controllers",
+    "\\RegistrationAndLogin\\Views",
+    "\\RegistrationAndLogin\\Views\\Account"
+  ],
+  "SelectedNode": "\\RegistrationAndLogin\\Controllers\\AccountController.cs",
+  "PreviewInSolutionExplorer": false
+}
