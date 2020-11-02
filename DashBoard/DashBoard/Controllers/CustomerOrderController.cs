@@ -39,7 +39,6 @@ namespace ApplicationDashboardMVC.DataAccess.Controllers
                 return Json(new { data = customerList }, JsonRequestBehavior.AllowGet);
             }
 
-
         }
 
     }
